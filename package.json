@@ -1,0 +1,25 @@
+{
+  "name": "capturetool",
+  "version": "1.0.0",
+  "description": "capture mxtoolbox page",
+  "main": "screenTool_smtp_v7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:\\Users\\abakkas\\Documents\\CaptureTool"
+  },
+  "author": "amine bakkas",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^2.10.0",
+    "nightmare-download-manager": "^0.2.5",
+    "nightmare-screenshot-selector": "^1.0.2",
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.2.0",
+    "update": "^0.7.4",
+    "update-electron-app": "^1.5.0",
+    "vo": "^4.0.2"
+  }
+}
